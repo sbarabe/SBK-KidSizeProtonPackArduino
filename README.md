@@ -1,4 +1,14 @@
-# SBK-Pack Ghosbusters Proton Pack for Kids, Arduino based electronics
+# SBK-Pack Ghostbusters Proton Pack for Kids, Arduino based electronics
+
+> [!WARNING]
+> ## PROJECT UNDER MAINTENANCE
+> This repository is currently being reorganized and updated.
+>
+> Some files, documentation, schematics, links, and instructions may be outdated, incomplete, or temporarily unavailable.
+>
+> The 3D model distribution is also being revised and may be moved to a separate download platform.
+>
+> Please use the current content with caution until this notice is removed.
 
 ![Elsa mod_00-Proton Wand V6 assy v8](https://github.com/sbarabe/SBK-KidSizeProtonPackArduino/assets/74213612/b9ed1225-d423-41d9-be64-e7c17c225ae0)
 ![Elsa mod_00-Proton Pack assy v5](https://github.com/sbarabe/SBK-KidSizeProtonPackArduino/assets/74213612/abb95de4-9516-46d4-8b80-1d9e26ce9118)
